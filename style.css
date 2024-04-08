@@ -1,0 +1,29 @@
+.aboutme{
+    font-family: "Dancing Script", cursive;
+}
+
+.card-body img{
+    max-width: 50%;
+    max-height: 200px;
+}
+
+/* #form{
+    height:62vh;
+    width: 100%;
+    background-color: rgb(79, 78, 78);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+} */
+
+/* .lf{
+    border: 1px solid white;
+    margin-top: 50px;
+
+} */
+
+/* .center{
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+} */
